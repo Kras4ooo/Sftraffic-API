@@ -1,2 +1,2 @@
-Sftraffic-API
+Sofia Traffic Client API
 =============
